@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: ghcr.io/heewon00/springboot_crud_security:edu_backend
+        image: ghcr.io/heewon00/springboot_crud_security:20240214090740
         # image: ghcr.io/shclub/vue3:v1
         imagePullPolicy: Always
         env:
